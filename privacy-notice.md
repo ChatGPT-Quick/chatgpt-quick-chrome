@@ -2,7 +2,7 @@ Privacy Policy for ChatGPT Quick Chrome Extension
 
 Effective Date: Dec 2, 2023
 
-Thank you for using the ChatGPT Connector Chrome Extension (the "Extension"). This Privacy Policy outlines the information practices associated with the Extension, operated by us.
+Thank you for using the ChatGPT Quick Chrome Extension (the "Extension"). This Privacy Policy outlines the information practices associated with the Extension, operated by us.
 
 Information We Collect
 
